@@ -1,0 +1,33 @@
+body {
+    margin: 2em;
+    line-height: 1.7;
+    background-color: #FBF8EF;
+    color: #000000;
+}
+
+#logo {
+    max-width: 950px;
+    margin-bottom: 20px;
+}
+
+.image {
+    float: right;
+    width: 30%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 0.5em;
+    max-width: 343px;
+  }
+  
+  h1, h2 {
+    font-family: 'Pinyon Script', cursive;
+    margin-top: 1em;
+  }
+
+  figcaption {
+    font-family: 'Special Elite', cursive;
+  }
